@@ -1,0 +1,11 @@
+SHOW DATABASES
+;
+
+USE ada_663
+;
+
+SELECT database()
+;
+
+SHOW CREATE DATABASE ada_663
+;
